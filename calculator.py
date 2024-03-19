@@ -1,6 +1,6 @@
 from msvcrt import getch
 
-print("This is Sample Pthon Calculator.")
+print("This is Sample Python Calculator.")
 print("Please Enter First Numer.")
 x = int(input())
 print("Please Enter Second Numer.")
